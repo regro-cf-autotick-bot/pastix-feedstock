@@ -23,17 +23,17 @@ fortran_compiler:
 fortran_compiler_version:
 - '13'
 libblas:
-- 3.9 *netlib
+- 3.9.* *netlib
 libcblas:
-- 3.9 *netlib
+- 3.9.* *netlib
 libhwloc:
 - 2.11.2
 liblapack:
-- 3.9 *netlib
+- 3.9.* *netlib
 liblapacke:
-- 3.9 *netlib
+- 3.9.* *netlib
 libscotch:
-- 7.0.6
+- 7.0.5
 metis:
 - 5.1.0
 target_platform:
